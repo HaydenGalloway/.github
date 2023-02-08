@@ -2,7 +2,7 @@
 
 Now that you know how HTML works it is time to put it to use and create your first website. When you are done you will have created the home page for all of the work that you do in this class. To get started take the following steps.
 
-1. Verify that you server is still running and that the default web programming 260 page is being displayed. If it is not then you need to complete, or review, the steps for setting your server.
+1. Verify that your server is still running and that the default web programming 260 page is being displayed. If it is not then you need to complete, or review, the steps for setting your server.
 
    ![Default website](htmlDefaultWebpage.jpg)
 
